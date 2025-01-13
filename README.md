@@ -1,5 +1,7 @@
 # Stockbase
 Developed a Retrieval-Augmented Generation (RAG)-based chatbot leveraging AWS services to deliver document-specific, context-aware responses for enterprise knowledge bases, customer support, and research assistance.
+![RAG Chatbot Context-Aware Document Retrieval and Response System](https://github.com/user-attachments/assets/76686827-6849-49d1-86db-736f11147990)
+
 Report 
 Introduction
 In today's world of Generative AI (GenAI), there is a growing need for smarter chatbots that can provide more accurate and context-aware answers. People expect chatbots to not just understand their questions but to give precise answers tailored to their specific needs.
